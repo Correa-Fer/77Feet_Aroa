@@ -1,11 +1,11 @@
 {
-  "name": "77Feet · Dashboard personal",
-  "short_name": "77Feet Personal",
+  "name": "77Feet Training",
+  "short_name": "77Feet",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#f4f4f4",
-  "theme_color": "#181818",
-  "description": "Programación 77Feet personalizada con RM propios y porcentajes exactos.",
+  "background_color": "#0b1020",
+  "theme_color": "#111827",
   "icons": [
     {
       "src": "icon-192.png",
